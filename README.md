@@ -19,8 +19,8 @@
 4. Base64: Built-in Python module for encoding and decoding base64 data.
 
 ## Project UI
-<img src="https://github.com/Shivan118/Resize_appication_python/blob/main/images/min%20ui.png" alt="MLBC">
+<img src="https://github.com/Shivan118/Image-Resizer-Project-streamlit/blob/main/min%20ui.png" alt="MLBC">
 
 ## Project Result
-<img src="https://github.com/Shivan118/Resize_appication_python/blob/main/images/output.png" alt="MLBC">
+<img src="https://github.com/Shivan118/Image-Resizer-Project-streamlit/blob/main/output.png" alt="MLBC">
 
